@@ -1,0 +1,26 @@
+[
+    {
+        "id": 81,
+        "name": "Lunch",
+        "short_name": "L",
+        "special_instructions": "Sunday-Friday 11:15am-3:00pm. Served with your choice of rice (Vegetable Fried RIce, Steamed Rice, Brown Rice), AND EITHER soup (Hot & Sour, Wonton, Vegetable, Egg Drop, Chicken Corn Soup) OR veggie egg roll. $1.00 extra to have both soup and egg roll."
+    },
+    {
+        "id": 82,
+        "name": "Soup",
+        "short_name": "A",
+        "special_instructions": ""
+    },
+    {
+        "id": 83,
+        "name": "Appetizers",
+        "short_name": "B",
+        "special_instructions": ""
+    },
+    {
+        "id": 84,
+        "name": "Chef's Recommendations",
+        "short_name": "SP",
+        "special_instructions": ""
+    }
+]
